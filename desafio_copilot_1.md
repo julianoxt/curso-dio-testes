@@ -53,3 +53,13 @@ Você pode criar um agente no Copilot Studio de três formas principais:
 ---
 
 Com esses passos, você terá um agente Copilot funcional, personalizado e pronto para oferecer uma experiência eficiente aos seus usuários.
+
+______
+
+Referencias:
+
+[1] [O Guia Definitivo de MarkDown para Iniciantes - GitHub](https://github.com/mende1/guia-definitivo-de-markdown)
+
+[2] [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+
+[2] [Formatação de texto com Markdown – Ajuda do Zendesk](https://support.zendesk.com/hc/pt-br/articles/360037426594-Formatação-de-texto-com-Markdown)
